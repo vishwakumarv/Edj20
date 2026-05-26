@@ -6,7 +6,7 @@ The device enables real-time monitoring, control, and communication with industr
 
 ---
 
-# Overview
+# Overview of Edj20
 
 The **Edj20** is built using the **ESP32-S3** SoC and developed with the **ESP-IDF v5.1.2** framework.  
 It is designed to interface with industrial systems and communicate with dashboards or host systems through a UART-based debug interface. :contentReference[oaicite:1]{index=1}
