@@ -1,4 +1,5 @@
 # Edj20 – Industrial IoT Edge Device
+
 About Edj20
 An Industrial IoT (IIoT) edge device developed for smart factory and industrial automation environments.  
 The device enables real-time monitoring, control, and communication with industrial sensors and machines using digital, analog, and serial interfaces. :contentReference[oaicite:0]{index=0}
@@ -185,3 +186,5 @@ This project/documentation is intended for educational and industrial developmen
 # Developed For
 
 **Wimera Systems**
+
+Bangalore, Karnataka
